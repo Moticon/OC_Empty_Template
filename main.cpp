@@ -1,0 +1,7 @@
+#include "Lab1Template1.h"
+
+int main() {
+
+
+	return 0; 
+}
