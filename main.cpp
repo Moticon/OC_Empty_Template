@@ -1,4 +1,4 @@
-#include "Lab1Template1.h"
+#include "header.h"
 
 /*
  *  This is a blank template used when I don't have
